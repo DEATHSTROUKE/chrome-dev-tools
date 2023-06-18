@@ -66,9 +66,9 @@ telegram для связи @geek_py
 **Использовать сеть Slow 3G и CPU 4x slowdown**
 ### Найти неоптимальные места
 Slow полностью совпадает с анализом неоптимальных мест выше по тексту
-1) [Записать и сохранить в HAR архив профиль загрузки ресурсов при открытии страницы](./SlowNetwork/www.gd.ru.har)
+1) [Записать и сохранить в HAR архив профиль загрузки ресурсов при открытии страницы](https://disk.yandex.ru/d/Nw5iwUQ4KLF48w)
 ### На вкладке Performance
-1) [Записать и сохранить в файл профиль загрузки страницы](./SlowNetwork/Trace-20230618T020748.json)
+1) [Записать и сохранить в файл профиль загрузки страницы](https://disk.yandex.ru/d/t4FGRE6M6QMb9g)
 2) Измерить время в миллисекундах от начала навигации до событий First Paint (FP), First Contentful Paint (FCP), Largest Contentful Paint (LCP), DOM Content Loaded (DCL), Load
    <img src="./images/Screenshot_101.png" width=90%>
    <img src="./images/Screenshot_99.png" width=90%>
